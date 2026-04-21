@@ -2,7 +2,6 @@
 
 > **Agentic AI Hands-On Course 2026 | Dr. Kanthi Kiran Sirra**
 
-| Field | Value |
 |-------|-------|
 | **Name** | Ridhum Mohan |
 | **Roll No** | 23051450 |
